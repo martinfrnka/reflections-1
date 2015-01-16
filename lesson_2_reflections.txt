@@ -1,0 +1,8 @@
+Q1. - What happens when you initialize a repository? Why do you need to do it?
+A1. - A .git folder is created within the repo. This is done in order to start 
+tracking changes to the repo.
+
+Q2. - How is the staging area different from the working directory and 
+the repository? What value do you think it offers?
+A2. - The staging area is being tracked by git, it is a part of the
+repository. It allows files to be tracked without being committed
