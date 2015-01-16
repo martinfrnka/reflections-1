@@ -24,3 +24,9 @@ do we represent it in the diagram the way we do?
 A6. - The result is including new features into the master brach
 for example. You represent it in the diagram to make my life 
 easier i suppose.
+
+Q7. - What are the pros and cons of Git’s automatic merging
+vs. always doing merges manually?
+A7. - Auto merge puts a smile on my face, no auto-merge
+allows adds all changes instantly to the required branch
+but it does not allow for review before it does so.
