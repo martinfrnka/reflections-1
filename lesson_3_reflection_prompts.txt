@@ -22,3 +22,9 @@ known state of the remote stored locally?
 A4. - This provides changes others have pushed to the
 remote that are not yet present in my local repo, this
 way i can compare the two.
+
+Q5. - How would you collaborate without using Git or 
+GitHub? What would be easier, and what would be harder?
+A5. - Well, at this point, am thinking everything will
+be harder without Git and GitHub.I'd have to use things
+like dropbox,google docs, arghhh...
